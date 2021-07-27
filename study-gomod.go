@@ -1,5 +1,5 @@
 package study_gomod
 
-func GoMod() string {
-	return "Sugeng dalu"
+func GoMod(name string) string {
+	return "Sugeng dalu " + name
 }
